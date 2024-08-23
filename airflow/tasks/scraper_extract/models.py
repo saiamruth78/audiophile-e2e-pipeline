@@ -45,6 +45,7 @@ class Headphone(InEarMonitor):
 
     Args:
         InEarMonitor (InEarMonitor): subclasses the InEarMonitor class, including all validators
+        learning git
     """
 
     fit_cup: str
